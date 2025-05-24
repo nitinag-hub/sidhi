@@ -3325,6 +3325,8 @@ input, select, textarea {
 			-webkit-flex-direction: row-reverse;
 			-ms-flex-direction: row-reverse;
 			flex-direction: row-reverse;
+			margin-left: 300px;
+			position: absolute;
 		}
 
 	@media screen and (max-width: 736px) {
